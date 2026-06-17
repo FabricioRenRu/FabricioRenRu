@@ -1,6 +1,6 @@
 ### Hey, I'm Fabricio 👋
 
-Computer Systems Engineering student, Mexico City  
+Computer Systems Engineering student, Mexico City.  
 I work across web development, embedded systems, databases, and cryptography.  
 Currently finishing my degree, with hands-on experience in networking, IoT, security, and information systems.
 
